@@ -8,4 +8,7 @@ Face Recognition using Python and face-recognition library.
   
  # How to RUN:
  <br />   python indentify.py
+  <br />
+ ![Alt text](/identify.jpg "Optional title")
+ 
 
