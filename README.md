@@ -1,11 +1,11 @@
 # Python-Face-Recognition
 Face Recognition using Python and face-recognition library.
 
-#Requirements:
-  <\n>  yum install cmake
-  <\n>  pip3 install dlib
-  <\n>  pip3 install face_recognition
+# Requirements:
+  <br />   yum install cmake
+  <br />   pip3 install dlib
+  <br />   pip3 install face_recognition
   
- #How to RUN:
- <\n> python indentify.py
+ # How to RUN:
+ <br />   python indentify.py
 
